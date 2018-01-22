@@ -19,7 +19,6 @@ mysql_select_db($con_db_name) or die("error select"); //打开数据库
 
 //test
 //test
-//test
 
 #print_r($_POST);
 //获得表单，累加存入数据库
